@@ -1,3 +1,3 @@
 # FLOOD PARTY - THE GAME
 
-Press "l" to load entire level.
+Press "L" to load entire level.
